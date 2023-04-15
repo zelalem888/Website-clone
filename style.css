@@ -4,8 +4,30 @@
 .navbar{
     padding: 1em;
 }
+.navbar-brand{
+    color: rgb(0, 217, 255);
+}
+.navbar-brand:hover{
+    color: rgb(180, 180, 0);
+}
+.nav-item a{
+    font-family: 'Mukta', sans-serif;
+}
+.nav-item a:hover{
+    color: yellow;
+}
+
 .icons{
     color: beige;
+}
+.bi-facebook:hover{
+    color: yellow;
+}
+.bi-instagram:hover{
+    color: yellow;
+}
+.bi-twitter:hover{
+    color: yellow;
 }
 .space{
     color: azure;
@@ -33,6 +55,7 @@
 #middle-one i{
     color: #8eb762;
 }
+
 #last-one img{
     width: 100%;
 }
@@ -58,4 +81,3 @@ p{
 .btn{
     background-color: #03a890;
 }
-
