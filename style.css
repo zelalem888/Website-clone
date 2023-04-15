@@ -1,0 +1,50 @@
+.nav-link{
+    color: beige;
+}
+.navbar{
+    padding: 1em;
+}
+.icons{
+    color: beige;
+}
+.space{
+    color: azure;
+    padding: 15%;
+    text-align: center;
+    background-image: url(images/photo_2023-04-14_22-36-09.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.benefits-small{
+    color: #53aca0;
+    font-size: 0.8em;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+    letter-spacing: 5px;
+}
+.benefit-header{
+    padding-top: 3em;
+}
+#middle-one div{
+    text-align: center;
+}
+#middle-one i{
+    color: #8eb762;
+}
+#last-one img{
+    width: 100%;
+}
+#last-one h2{
+    width: 10em;
+    font-weight: bold; 
+    font-family: 'Manrope', sans-serif;
+}
+#seconed-header h2{
+    font-family: 'Jost', sans-serif;
+    font-size: 3em;
+}
+p{
+    font-family: 'Ubuntu', sans-serif;
+}
+
