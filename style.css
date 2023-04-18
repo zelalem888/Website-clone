@@ -12,6 +12,7 @@
 }
 .nav-item a{
     font-family: 'Mukta', sans-serif;
+    font-size: 1.3em;
 }
 .nav-item a:hover{
     color: yellow;
@@ -32,11 +33,11 @@
 .space{
     color: azure;
     padding: 15%;
-    padding-top: 10em;
     text-align: center;
     background-image: url(images/photo_2023-04-14_22-36-09.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
 .benefits-small{
     color: #53aca0;
