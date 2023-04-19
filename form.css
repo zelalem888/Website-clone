@@ -187,18 +187,13 @@
   .submit:active {
     background-color: #06b;
   }
-  @media only screen and (max-width: 788px) {
-    nav {
-      display: flex;
-      flex-direction: column;
-      gap: 20px;
-      
-    }
-    nav ul {
-        transform: translateX(-8px);
-      }
-    
+   @media only screen and (max-width: 375px){
 
-}
+    .link1{
+      display:block;
+      text-align:center;
+    }
+  }
+
 
   
